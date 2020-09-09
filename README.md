@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome to FUTRON CLUB 
 
-You can use the [editor on GitHub](https://github.com/Futron-EJUST/MATLAB/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**We hope you enjoy throughout the joureny**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course Description
 
-### Markdown
+MATLAB, is a programming language for algorithms development, data analysis, visualization and numeric computation. MATLAB, is provided with packages that critical for mechanical, electrical, electronics, computer science, control, mechatronics, and robotics engineering. So, understanding the MATLAB language is critical to be involved in robotics field. So, at this course we provide most of perquisites and building blocks for concurrent courses or others courses in the future.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Course Content
 
-- Bulleted
-- List
+1. Introduction to MATLAB Environment
 
-1. Numbered
-2. List
+2. Matrices Operations
 
-**Bold** and _Italic_ and `Code` text
+3. Vectorization
 
-[Link](url) and ![Image](src)
-```
+4. Rational and logical operations
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+5. Conditional Statements
 
-### Jekyll Themes
+6. Loops
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Futron-EJUST/MATLAB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+7. Functions
 
-### Support or Contact
+8. Data types
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+9. Data visualization
+
+10. File I/O
+
+11. Root Findings
+
+12. Ordinary Defferntial Equations (ODE)
+
+The content will be uploaded when courses are launched
+
+Return to [home page](https://futron-ejust.github.io/FUTRON/).
